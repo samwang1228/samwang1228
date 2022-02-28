@@ -10,6 +10,6 @@
 <div> 💬 Ask me about ... </div>
 <div> 📫 How to reach me: samwang19991228@gmail.com </div>
   </div>
-<img  style="float:right;"  src ="https://github-readme-stats.vercel.app/api?username=samwang1228&show_icons=true&theme=tokyonight">
+<img  align = "left"  src ="https://github-readme-stats.vercel.app/api?username=samwang1228&show_icons=true&theme=tokyonight" width="200px" height="100">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samwang1228&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
