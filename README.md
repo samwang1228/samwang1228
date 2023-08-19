@@ -5,9 +5,6 @@
 <!-- Here are some ideas to get you started: -->
 <h3> My name is sam , welcome to my github </h3>
 <div style="float:left;" >
-<div>🔭 I’m currently working on tsmc(part time) </div>
-<div>🌱 I’m currently learning machine learning </div>
-<div>🌱 I’m currently doing fintech and computer vision </div>
 <div> 📫 How to reach me: samwang19991228@gmail.com </div>
   </div>
 Welcome to my blog:https://samwang1228.github.io/</div>
